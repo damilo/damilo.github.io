@@ -9,7 +9,7 @@ body
       background-color: #555;
 }
 
-header, nav, footer, hr, article, h1
+header, nav, footer, hr, article, h1, p
 {
     margin: 0;
     padding: 0;
@@ -20,7 +20,7 @@ header, nav, footer, hr, article, h1
     color: #ffffff;
     margin-left: 0.5em;
     position: fixed;
-    z-index: 20;
+    z-index: 1;
 }
 
 .content
@@ -28,7 +28,6 @@ header, nav, footer, hr, article, h1
     position: relative;
     width: 900px;
     margin: 0 auto;
-    
     font-size: 0.875em; /*px/16 = em;*/
 }
 
