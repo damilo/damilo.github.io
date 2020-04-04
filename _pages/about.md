@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-toc: true
-toc_label: Table of Contents
 ---
-
-This is a site about me.
+## Hi, mein Name ist Daniel und ich heiße euch Willkommen.
+<p>
+Auf meiner Website erfahrt ihr über mich, Dinge die mich interessieren undThemen  an denen ich arbeite.
+</p>
