@@ -4,11 +4,11 @@ toc: true
 toc_label: "Projekte nach Themengebiet"
 ---
 
-# RPA
+<h2>RPA</h2>
 <p>...under construction</p>
 
-# Machine Learning
+<h2>Machine Learning</h2>
 <p>...under construction</p>
 
-# Data Science
+<h2>Data Science</h2>
 <p>...under construction</p>
