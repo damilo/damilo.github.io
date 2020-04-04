@@ -96,12 +96,12 @@ author:
   name             : "Daniel Hellwig"
   avatar           : "/assets/images/logo_me_square.jpg"
   bio              : "Anwendung von RPA, Machine Learning und Data Science zur Gestaltung einer besseren Welt."
-  location         : "Germany"
+  location         : # "Germany"
   email            : # daniel.hellwig@live.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:daniel.hellwig@live.com
+      url: mailto:dan.dsml@outlook.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -269,11 +269,11 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
       read_time: true
       comments: # true
       share: true

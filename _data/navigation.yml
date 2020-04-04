@@ -2,3 +2,7 @@
 main:
   - title: "Werdegang"
     url: /profcareer/
+  - title: "Projekte"
+    url: /projects/
+  - title: "Privat"
+    url: /private/

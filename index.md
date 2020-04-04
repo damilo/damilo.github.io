@@ -12,7 +12,7 @@ Auf meiner Website erfahrt ihr über mich, Dinge die mich interessieren und Them
 </article>
 
 <article>
-<h2>&Uuml;ber mich</h2>
+<h3>&Uuml;ber mich</h3>
 <p>
 Meine Kenntnisse und Erfahrungen im Software-Engineering wende ich hauptsächlich in Robotic Process Automation, Machine Learning sowie Data Science an.
 </p>
