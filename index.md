@@ -1,3 +1,7 @@
+---
+author_profile: true
+---
+
 <h3>
 Hi, mein Name ist Daniel und ich heiße euch Willkommen.
 </h3>
