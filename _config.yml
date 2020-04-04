@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "de-DE"
 title                    : "Daniel Hellwig"
 title_separator          : "-"
-subtitle                 : Anwendung von RPA, Machine Learning und Data Science zur Gestaltung einer besseren Welt.
+subtitle                 : # 
 name                     : "Daniel Hellwig"
 description              : "personal website"
 url                      : "https://damilo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo_me_square.jpg"
+logo                     : # 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Hellwig"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/logo_me_square.jpg"
+  bio              : "Anwendung von RPA, Machine Learning und Data Science zur Gestaltung einer besseren Welt."
   location         : "Germany"
-  email            :
+  email            : # daniel.hellwig@live.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
