@@ -1,6 +1,5 @@
 ---
-layout: home
-author_profile: true
+permalink: /index/
 ---
 
 This is a site about me.
