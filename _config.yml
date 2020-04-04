@@ -143,7 +143,6 @@ footer:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
 exclude:
   - "*.sublime-project"
@@ -281,7 +280,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: "_pages/about.md"
       type: pages
     values:
       layout: single
