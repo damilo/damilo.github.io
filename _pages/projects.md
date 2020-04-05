@@ -5,6 +5,7 @@ toc_label: "Projekte nach Themengebiet"
 ---
 
 <h2 id='robotic-process-automation'>RPA</h2>
+<p>Einen &UUml;berblick meiner Aktivit&auml;ten in RPA wird am besten durch folgende Infographic beschrieben.</p>
 <p><img src='../assets/images/project.rpa.infographic.png' /></p>
 
 <h2 id='machine-learning'>Machine Learning</h2>
