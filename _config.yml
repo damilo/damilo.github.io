@@ -96,8 +96,8 @@ author:
   name             : ""
   avatar           : "./assets/images/logo_me_square.jpg"
   bio              : ""
-  location         : "Deutschland"
-  email            : # daniel.hellwig@live.com
+  location         : #"Deutschland"
+  email            : #daniel.hellwig@live.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,8 +127,8 @@ footer:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       # url:
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
