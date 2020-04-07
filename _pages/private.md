@@ -1,5 +1,7 @@
 ---
 permalink: /private/
+toc: true
+toc_label: "Schnellzugriff"
 ---
 
 <h2 id='private-disc-jockey'>Disc Jockey</h2>
