@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "Daniel Hellwig"
+title                    : ""
 title_separator          : "-"
-subtitle                 : # 
+subtitle                 : ""
 name                     : "Daniel Hellwig"
 description              : "personal website"
 url                      : "https://damilo.github.io"
