@@ -22,11 +22,11 @@ Ich bin haupts&auml;chlich beteiligt an der Entwicklung von Software-L&ouml;sung
 </ul>
 </p>
 
-<h2 id='projects-machine-learning'>Machine Learning</h2>
+<h2 id='projects-machine-learning-data-science'>Machine Learning / Data Science</h2>
 <p>
 Der Einsatz von Machine Learning kommt erst in Verbindung mit anderen Technologien, wie RPA, zustande. Projekte mit diesem Schwerpunkt sind &ouml;ffentlich in einem GitHub Repository zu finden. Eine &Uuml;bersicht aller Projekte und deren Inhalt gibt diese <a href='https://github.com/damilo/project.ml/blob/master/readme.md' target='_blank'>readme.md</a>.
 </p>
-<h3 id='projects-machine-learning-samples'>Auswahl an Projekten</h3>
+<h3 id='projects-machine-learning-data-science-samples'>Auswahl an Projekten</h3>
 <p>
 <ul>
 <li>Filtern von Emails nach Spam oder Ham</li>
@@ -34,6 +34,3 @@ Der Einsatz von Machine Learning kommt erst in Verbindung mit anderen Technologi
 <li>Bestimmung vorraussichtlicher Ausgaben von Kunden</li>
 </ul>
 </p>
-
-<h2 id='projects-data-science'>Data Science</h2>
-<p>...under construction</p>
