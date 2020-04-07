@@ -6,7 +6,7 @@ author_profile: true
 <p>
 Auf dieser Website erfahrt ihr über mich, Dinge die mich interessieren und Themen an denen ich arbeite.
 </p>
-Unter '&Uuml;ber Mich' sind meine aktuellen Beitr&auml;ge zu finden.{.notice--info}
+Unter '&Uuml;ber Mich' sind meine aktuellen Beitr&auml;ge zu finden.{: .notice--info}
 
 <h2>&Uuml;ber Mich</h2>
 <p>
