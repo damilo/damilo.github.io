@@ -7,7 +7,7 @@ toc_label: "Projekte nach Themengebiet"
 <h2 id='projects-robotic-process-automation'>RPA</h2>
 <p>
 Einen &Uuml;berblick meiner Aktivit&auml;ten in RPA verschafft folgende Infographic.
-<img src='../assets/images/project.rpa.infographic.png' />
+![RPA infographic](../assets/images/project.rpa.infographic.png){: .align-center}
 </p>
 <p>
 Ich bin hauptsächlich beteiligt an der Entwicklung von Software-Lösungen unter Anwendung moderner Technologien. Die Unternehmungen erstrecken sich hierbei &uuml;ber die DACH-Region. Neben dem Engineering helfe ich auch gerne bei Gestaltung und Umsetzung der initialen Einf&uuml;hrung von RPA mit, halte Trainings und Workshops, und erstelle DevOps-Prozesse zur Integration von RPA in die Aufbau- und Ablaufstruktur des Unternehmens.
