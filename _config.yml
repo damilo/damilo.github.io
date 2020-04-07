@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "./assets/images/logo_me_square.jpg"
+  avatar           : "/assets/images/logo_me_square.jpg"
   bio              : ""
   location         : #"Deutschland"
   email            : #daniel.hellwig@live.com
