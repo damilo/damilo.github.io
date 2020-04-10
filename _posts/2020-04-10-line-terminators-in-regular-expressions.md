@@ -1,5 +1,5 @@
 ---
-title: Zeilenumrüche in regulären Ausdrücken
+title: Zeilenumbrüche in regulären Ausdrücken
 ---
 
 Eine Regular Expression, ins Deutsche übersetzt 'regulärer Ausdruck', hilft dabei eine Zeichenkette zu filtern. Programmatisch ist es so zu verstehen, dass eine Zeichenkette mit einem bestimmten Muster abgeglichen wird und der übereinstimmende Teil der Zeichenkette zurückgegeben wird.
