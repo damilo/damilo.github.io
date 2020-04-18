@@ -27,3 +27,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# ongoing posts
+_posts/2020-04-18-gdp-via-worldbank-api.md
