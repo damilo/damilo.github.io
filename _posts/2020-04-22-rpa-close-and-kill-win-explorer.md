@@ -20,7 +20,7 @@ Einzelne Fenster können in der UI Automation mittels eindeutig definierten Sele
 <wnd app='explorer.exe' cls='CabinetWClass' title='Downloads' />
 ```
 
-Wenn aber alle Fenster geschlossen werden sollen im Zuge einer Ausnahmebehandlung, ist es wahrlich umständlich den überblick zu behalten - es müsste der Wert des Attributs 'title' je Fenster gespeichert werden. Dieses Vorgehen wird weiterhin zur Qual wenn die Titel der Fenster im Vorfeld unbekannt sind aufgrund der Nutzung von dynamischen Selektoren.
+Wenn aber alle Fenster geschlossen werden sollen im Zuge einer Ausnahmebehandlung, ist es wahrlich umständlich den Überblick zu behalten - es müsste der Wert des Attributs 'title' je Fenster gespeichert werden. Dieses Vorgehen wird weiterhin zur Qual wenn die Titel der Fenster im Vorfeld unbekannt sind aufgrund der Nutzung von dynamischen Selektoren.
 
 
 ## Die Lösung

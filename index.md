@@ -2,7 +2,7 @@
 author_profile: true
 ---
 
-<h2>Hi, mein Name ist Daniel und ich heiße euch Willkommen.</h2>
+<h2>Hallo, Hoi, Moin - mein Name ist Daniel und ich heiße euch Willkommen.</h2>
 <p>
 Auf dieser Website erfahrt ihr über mich, Dinge die mich interessieren und Themen an denen ich arbeite.
 </p>
@@ -16,4 +16,7 @@ Aktuell arbeite ich als Software-Engineer in Robotic Process Automation, Machine
 </p>
 <p>
 Sofern es die Zeit und der Ort zul&auml;sst, nehme ich gerne an Meetups teil, um Menschen kennen zu lernen und neue Eindr&uuml;cke zu gewinnen. Zu nennen sei hier das <a href='https://www.meetup.com/Erlangen-Artificial-Intelligence-Machine-Learning-Meetup/' target='_blank'>EAIML (Erlangen Artificial Intelligence & Machine Learning</a> Meetup.
+</p>
+<p>
+Ich habe nat&uuml;rlich noch weitere Interessen - schaut hierzu gerne unter <a href="/private/">Privates</a>.
 </p>
