@@ -1,5 +1,5 @@
 ---
-title: Sanftes und Unsanftes Beenden des Windows Explorer
+title: Würdevolles und Unwürdevolles Beenden des Windows Explorer
 ---
 
 
@@ -45,7 +45,7 @@ Ein erneutes Starten des Prozesses 'explorer.exe' über den Task Manager wäre e
 
 Ist diese Einstellung gesetzt, so werden alle Fenster in einem separaten Prozess gestartet. Aber Vorsicht ist geboten, denn dieser Prozess heißt ebenso 'explorer.exe'.
 
-### "Sanftes" Beenden der Windows Explorer Fenster - eins nach dem anderen?
+### Würdevolles Beenden der Windows Explorer Fenster - eins nach dem anderen?
 Aufgrund der Trennung der Fenster von der Windows Shell sollte es nun möglich sein diese eindeutig zu identifizieren und damit zu beenden. Aber auch hier wird uns ein Strich durch die Rechnung gemacht, wie folgende beispielhafte Auflistung der laufenden Prozesse namens 'explorer.exe' zeigt.
 
 |PID |Prozess-Name |Fenster-Titel |
@@ -55,10 +55,11 @@ Aufgrund der Trennung der Fenster von der Windows Shell sollte es nun möglich s
 
 Die Windows Shell ist nun separat aufgeführt, erkenntlich an dem fehlenden Fenster-Titel, aber dennoch wird nur ein Fenster angezeigt, und zwar das aktuell aktive. Eine Lösung wäre eine Schleife zu bauen, die alle Fenster schließt solange ein Prozess 'explorer.exe' mit einem Fenster-Titel vorhanden ist. Dies resultiert aber in einer (mir persönlich) unschönen Programmierung.
 
-### "Unsanftes" statt "Sanftes" Beenden
+### Unwürdevolles statt Würdevolles Beenden
 Grundsätzlich sei gesagt, dass eine ordnungsgemäße Beendigung vorzuziehen ist, aber um alle Fenster in einem Wisch zu beenden erschließt sich aktuell kein anderer Weg als den Prozess für ein Fenster zu killen, wobei auch alle anderen Fenster geschlossen werden. Laut meiner Kenntnis entstehen hierbei auch keine Nebenwirkungen, z.B. den Verlust von Daten (sofern aktuell kein Vorgang läuft). Somit ist es ausreichend alle laufenden Prozesse einzuholen, nach einem Prozess 'explorer.exe' mit einem Fenster-Titel zu suchen und diesen dann zu killen. Nachfolgend ist hierzu der UiPath RPA-Programmausschnitt gezeigt.
 
 {% include figure image_path="/assets/2020-04-22-rpa-close-and-kill-win-explorer/2020-04-22-rpa-close-and-kill-win-explorer-04_rpaimpl.png" alt="UiPath RPA Implementierung zum Beenden aller Windows Fenster" caption="UiPath RPA Implementierung zum Beenden aller Windows Fenster" %}
+
 
 ## Zusammenfassung
 Die einzelnen Fenster des Windows Explorer lassen sich nur umständlich greifen und damit wird programmatisch ein ordentliches Beenden erschwert. Abhilfe hierbei bringt ein Kill des richtigen 'explorer'-Prozesses. Hierfür ist aber die Einstellung das Dateisystem in einem separaten Prozess ausführen zu lassen unabdingbar.
