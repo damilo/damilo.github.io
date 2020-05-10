@@ -129,6 +129,10 @@ Die resultierende Python Embedded Distribution ist nun fähig auf die Funktional
 
 
 ## Anwendungsbeispiele
+Quellen der Anwendungen:
+- <a href='/assets/2020-05-08-integration-of-python-embedded/pyemb36_Pillow.zip'>Anwendung 1: Bildbearbeitung, Pillow</a>
+- <a href='/assets/2020-05-08-integration-of-python-embedded/pyemb36_spamest.zip'>Anwendung 2: RPA, UiPath Studio, Machine Learning, scikit-learn</a>
+{: .notice}
 
 ### Anwendung 1: Bildbearbeitung, Pillow
 Das folgend beschriebene Beispiel zeigt die Verwendung des Site Package _Pillow_ und bezieht sich auf die in der Durchführung beschriebenen Erläuterungen. Sämtliche Schritte zur Bereitstellung der Python Embedded Distribution inklusive des Site Package sind dieser zu entnehmen.
