@@ -48,13 +48,13 @@ Die Python Embedded Distribution ist über die Website der <a href='https://www.
 
 Die Ausgabe der Version von Python zeigt folgendes an:
 ```
-C:\Users\Daniel\Desktop\python36\python-3.6.8-embed-amd64>python --version
+C:\Users\Daniel\Desktop\python36\python-3.6.8-embed-amd64>python.exe --version
 Python 3.6.8
 ```
 
 Ein Start der `python.exe` gibt die gewohnte Programmierumgebung über die Kommmandozeile:
 ```
-C:\Users\Daniel\Desktop\python36\python-3.6.8-embed-amd64>python
+C:\Users\Daniel\Desktop\python36\python-3.6.8-embed-amd64>python.exe
 Python 3.6.8 (tags/v3.6.8:3c6b436a57, Dec 24 2018, 00:16:47) [MSC v.1916 64 bit (AMD64)] on win32
 >>> import sys
 >>> sys.exit ()
