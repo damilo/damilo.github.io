@@ -1,4 +1,5 @@
 ---
+title: Privates
 permalink: /private/
 toc: true
 toc_label: "Schnellzugriff"
