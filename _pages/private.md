@@ -4,32 +4,20 @@ toc: true
 toc_label: "Schnellzugriff"
 ---
 
-<h2 id='private-disc-jockey'>Disc Jockey</h2>
-<p>
-...under construction
-</p>
 
-<h2 id='private-investments'>Investments</h2>
-<p>
-In jungen Jahren wollte ich nicht einmal ansatzweise etwas mit Wirtschaft oder gar Finanzen am Hut haben - dies &auml;nderte sich als mir ein guter Freund ein Buch &uuml;ber Investements zum Geburtstag schenkte. Die Gr&uuml;nde dahinter liegen einerseits in meiner Bef&uuml;rchtung, dass sich unser deutsches Rentensystem bis zu meinem Eintritt nicht allzu gut halten wird und andererseits in meinem analytischen Spieltrieb, der durch das Anlegen in Aktien und Fonds gef&ouml;rdert wird (mit wenig Risiko soweit m&ouml;glich).
-</p>
-<p>
-<!-- hier aktuelle Kurse der Assets meines Depots abbilden //-->
-</p>
+## Disc Jockey
+Ich: "Hey, ihr habt gar keinen DJ und eure Hütte ist voll.", Barkeeper: "Na dann, mach du doch den DJ." - so kam ich vor vielen Jahren zu meinem ersten Gig und ich erinnere mich noch daran als ob es gestern gewesen wäre. Mein Herz raste vor Aufregung, aber die Nacht war ein voller Erfolg für mich. Nun ist es gang und gäbe geworden sich für einen Auftritt vorzubereiten und die Technik vor Ort zum Laufen zu bringen um den Gästen in Bars oder Clubs einen schönen Abend zu bereiten, vor allem wenn ich meine geliebte Musik spielen kann. Ich lege aus Spaß an der Freude auf, aktuell vor allem in Erlangen (Gummi Wörner, Wort&Klang, E-Werk).
 
-<h2 id='private-judo'>Judo</h2>
-<p>
-...under construction
-</p>
+Auf <a href='https://www.mixcloud.com/danip_dj/' target='_blank'>Mixcloud</a> könnt ihr gerne in einige meiner Sets reinhören. Außerdem bin ich auf <a href='https://www.instagram.com/dans.dejay/' target='_blank'>Instagram</a> vertreten und baue aktuell einen YouTube Channel auf.
 
-<h2 id='private-gaming'>Gaming</h2>
-<p>
-...under construction
-</p>
 
-<!--
-<h2 id='private-game-development'>Game Development</h2>
-<p>
+## Investments
+In jungen Jahren wollte ich nicht einmal ansatzweise etwas mit Wirtschaft oder gar Finanzen am Hut haben - dies änderte sich als mir ein guter Freund ein Buch über Investements zum Geburtstag schenkte. Die Gründe dahinter liegen einerseits in meiner Befürchtung, dass sich unser deutsches Rentensystem bis zu meinem Eintritt nicht allzu gut halten wird und andererseits in meinem analytischen Spieltrieb, der durch das Anlegen in Aktien und Fonds gefördert wird (mit wenig Risiko soweit möglich).
+
+
+## Judo
 ...under construction
-</p>
-//-->
+
+
+## Gaming
+...under construction
