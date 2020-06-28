@@ -4,5 +4,5 @@ main:
     url: /profcareer/
   - title: "Projekte"
     url: /projects/
-  - title: "Privat"
-    url: /private/
+#  - title: "Privat"
+#    url: /private/

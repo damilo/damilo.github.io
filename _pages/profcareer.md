@@ -16,6 +16,10 @@ permalink: /profcareer/
         <td>10/2010 - 06/2014</td>
         <td>Technischer Spezialist - industrielle Automatisierung | Siemens AG, Erlangen</td>
     </tr>
+    <tr>
+        <td>10/2008 - 09/2010</td>
+        <td>Technischer Spezialist - industrielle Automatisierung | Siemens AG, Erlangen</td>
+    </tr>
 </table>
 </p>
 
